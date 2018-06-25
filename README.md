@@ -1,6 +1,6 @@
 # Bower components site
 
-**Deprecated** as it's been moved to [the Bower organization](https://github.com/bower/search)
+**Deprecated** as it's been moved to [the Bower organization](https://github.com/samuelbetio/storyofmylife)
 
 ---
 
@@ -16,4 +16,4 @@ Makes it easy to search and discover Bower components. It works by using a [serv
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [GreenFair Template](https://samuelbetio.github.io/GreenFairTemplate/)
