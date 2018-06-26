@@ -6,7 +6,7 @@ OBS. The API is not frozen. It MAY change!
 
 License (MIT)
 
-Copyright (c) 2011 Jonny Strömberg http://jonnystromberg.com
+Copyright (c) 2018 Samuel Betio https://twitter.com/samuelbetio
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
