@@ -1,6 +1,6 @@
-# bower.json specification
+# GreenFairTemplate.json specification
 
-`bower.json` is used for configuring packages that can be used as a dependency of another package. This is similar to Node’s `package.json` or Ruby’s `Gemfile`.
+`GreenFairTemplate.json` is used for configuring packages that can be used as a dependency of another package. This is similar to Node’s `package.json` or Ruby’s `Gemfile`.
 
 You can interactively create a bower.json with `bower init`.
 
