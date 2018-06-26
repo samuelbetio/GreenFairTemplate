@@ -1,4 +1,4 @@
-# Bower specifications
+# GreenFair specifications
 
 Bower execution can be configured in two ways:
 
