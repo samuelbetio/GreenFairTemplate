@@ -1,26 +1,26 @@
 {
-  "name": "bower-components",
+  "name": "GreenFairTemplate",
   "version": "0.0.0",
-  "description": "Site to discover Bower components",
+  "description": "Site to discover GreenFair Template",
   "keywords": [
     "bower",
     "components",
     "packages",
     "manager"
   ],
-  "homepage": "https://github.com/sindresorhus/bower-components",
-  "bugs": "https://github.com/sindresorhus/bower-components/issues",
+  "homepage": "https://github.com/samuelbetio/GreenFairTemplate",
+  "bugs": "https://github.com/samuelbetio/GreenFairTemplate/issues",
   "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "http://sindresorhus.com"
+    "name": "Samuel Betio",
+    "email": "lmas2969@gmail.com",
+    "url": "https://t.co/u7mzKcEQdg"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sindresorhus/bower-components.git"
+    "url": "git://github.com/samuelbetio/GreenFairTemplate.git"
   },
   "devDependencies": {
-    "bower": "~1.2.6",
+    "GreenFair": "~1.2.6",
     "grunt": "~0.4.1",
     "grunt-contrib-concat": "~0.3.0",
     "grunt-contrib-uglify": "~0.2.0",
