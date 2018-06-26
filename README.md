@@ -1,4 +1,4 @@
-# Bower components site
+# GreenFair Template site
 
 **Deprecated** as it's been moved to [the Websitebloger organization](https://github.com/websitebloger/GreenFairTemplate)
 
