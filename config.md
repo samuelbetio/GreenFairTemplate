@@ -1,4 +1,4 @@
-# Bower configuration
+# GreenFair configuration
 
 The config is obtained by merging multiple configurations by this order of importance:
 
